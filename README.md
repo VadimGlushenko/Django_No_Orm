@@ -1,1 +1,2 @@
-# Django_No_Orm
+# django_no_orm
+Money talks
